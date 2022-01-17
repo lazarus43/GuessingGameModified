@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87efa246-5df2-4102-a75c-5e3f146b642c": {
+      "ProjectGuid": "87efa246-5df2-4102-a75c-5e3f146b642c",
+      "DisplayName": "GuessingNumber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,14 @@
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\bin\Debug\net6.0\GuessingNumber.exe
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\bin\Debug\net6.0\GuessingNumber.deps.json
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\bin\Debug\net6.0\GuessingNumber.runtimeconfig.json
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\bin\Debug\net6.0\GuessingNumber.dll
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\bin\Debug\net6.0\ref\GuessingNumber.dll
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\bin\Debug\net6.0\GuessingNumber.pdb
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\GuessingNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\GuessingNumber.AssemblyInfoInputs.cache
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\GuessingNumber.AssemblyInfo.cs
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\GuessingNumber.csproj.CoreCompileInputs.cache
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\GuessingNumber.dll
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\ref\GuessingNumber.dll
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\GuessingNumber.pdb
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\GuessingNumber.genruntimeconfig.cache
