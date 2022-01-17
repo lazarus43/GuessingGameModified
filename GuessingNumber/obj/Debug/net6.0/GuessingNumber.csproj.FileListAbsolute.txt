@@ -12,3 +12,4 @@ C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.
 C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\ref\GuessingNumber.dll
 C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\GuessingNumber.pdb
 C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\GuessingNumber.genruntimeconfig.cache
+C:\Users\nhing\Desktop\MiniProject\GuessingNumber\GuessingNumber\obj\Debug\net6.0\GuessingNumber.csproj.AssemblyReference.cache
